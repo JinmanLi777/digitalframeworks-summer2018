@@ -3,6 +3,7 @@
 * A list of the things you want to know about any data point
 The largest and fastest-growing sources of FDI (foreign direct investment) for the U.S., China, Russia, Canada and the EU and the amount of them in 2015-2018. 
 * An explanation of how you'd go about collecting that data (you don't actually have to do it on an ongoing basis, especially if it involves staking something out, just tell me how you would do it).
+
 The data sources will be these countries’ department of commerce and some research organizations such as the Rhodium Group. 
 * A table including at least five data points in this dataset
 https://docs.google.com/spreadsheets/d/1BTolVaJh3ItlacpE2znwWbWeimpYRZ5gNuMoBdSk7UI/edit#gid=0
