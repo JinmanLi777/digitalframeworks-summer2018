@@ -6,6 +6,6 @@ The largest and fastest-growing sources of FDI (foreign direct investment) for t
 
 The data sources will be these countries’ department of commerce and some research organizations such as the Rhodium Group. 
 * A table including at least five data points in this dataset
-https://docs.google.com/spreadsheets/d/1BTolVaJh3ItlacpE2znwWbWeimpYRZ5gNuMoBdSk7UI/edit#gid=0
+https://docs.google.com/spreadsheets/d/1BTolVaJh3ItlacpE2znwWbWeimpYRZ5gNuMoBdSk7UI/edit?usp=sharing
 
 I haven’t finish gathering the data for other countries yet but will be able to find it via the sources I listed above. 
