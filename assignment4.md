@@ -9,8 +9,10 @@ $373.4 billion in 2016, down $66.1 billion, or 15.0 percent, from $439.6 billion
 2014: $260.5 billion 
 New Foreign Direct Investment in the United States: 2017
 https://www.bea.gov/newsreleases/international/fdi/fdinewsrelease.htm
+
 New Foreign Direct Investment in the United States in 2016
 https://www.bea.gov/scb/pdf/2017/08-August/0817-new-foreign-direct-investment-in-the-united-states.pdf
+
 New Investment in the United States by Foreign Direct Investors
 https://www.bea.gov/international/di1fdinew.htm
 
