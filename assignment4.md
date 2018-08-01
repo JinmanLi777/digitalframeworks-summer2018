@@ -45,8 +45,11 @@ The relatively small amount of Chinese investment in the United States can also 
 2.The national security reviews of the Committee on Foreign Investment in the United States have soured many Chinese investors on the U.S. market.”
 
 3.	What elements in the data might be good candidates to visualize
+
 The changes in U.S. foreign direct investment and China FDI in 2014-2017. 
+
 The changes in China’s position in US FDI and the changes in US’s position in China FDI
+
 China’s FDI in the U.S. states
 
 4.	What your news hook is - why is this timely?
