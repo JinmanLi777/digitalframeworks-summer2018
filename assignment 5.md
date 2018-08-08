@@ -2,14 +2,14 @@
 * I downloaded the xls file that includes occupational employment and wage estimates data for all the states. 
 
 2. Questions and Answers:
-* What is the occupation in D.C. that has the most employment? 
-* Business and Financial Operations Occupations
+* What is the occupation in D.C. that has the most employment?  
+Business and Financial Operations Occupations
 
 * What is the occupation in D.C. that has the highest annual mean wage?
-* Anesthesiologists
+Anesthesiologists
 
 * How many occupations have an annual mean wage higher than $100,000 and what percentage does it take in the total occupations?
-* 112. 112/518=21.6%
+112. 112/518=21.6%
 
 3. Steps:
 * I used the filter function to select District of Columbia as the state. 
