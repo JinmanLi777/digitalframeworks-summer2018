@@ -9,7 +9,7 @@ Business and Financial Operations Occupations
 Anesthesiologists
 
 * How many occupations have an annual mean wage higher than $100,000 and what percentage does it take in the total occupations?
-112. 112/518=21.6%
+112;112/518=21.6%
 
 3. Steps:
 * I used the filter function to select District of Columbia as the state. 
