@@ -1,4 +1,4 @@
-Title: Chinese direct investment in the U.S. may continue to decline under Cfius law and other influence
+# Chinese direct investment in the U.S. may continue to decline under Cfius law and other influence
 By Jinman Li
 
 An act that would expand the oversight on foreign investment was signed into law by the president on August 13 as part of a defense authorization package. It reforms the Committee on Foreign Investment in the U.S., an inter-agency committee, strengthening its power to investigate – and potentially block – foreign transactions for national security concerns. 
