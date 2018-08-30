@@ -11,7 +11,8 @@ However, most of the changes in the law will not take effect until implementing 
 
 Despite the uncertainties in implementation, the concerns raised toward the Cfius law will have a "measurable impact" on the Chinese investment in the U.S., Minarik said. Chinese direct investment in the U.S. declined by 36 percent to $30 billion in 2017, according to the Rhodium Group, an independent research provider. 
 
-https://us-east-1.online.tableau.com/#/site/jinman/views/U_S_-Chinadirectinvestmentflowinthepast10years/1?:iid=4
+https://us-east-1.online.tableau.com/t/jinman/views/U_S_-Chinadirectinvestmentflowinthepast10years/1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no
+
 (Data source: Rhodium Group)
 
 One of the reasons is that the Chinese government has stepped up scrutiny over outbound capital flows since late 2016 to curb currency depreciation. Beijing will continue to guard against a repeat of 2015-2016, a peak in China's outbound investment, Derek Scissors, a resident scholar at American Enterprise Institute, a conservative think tank, wrote in a July report. He is also the creator of the China Global Investment Tracker, a data set covering China's global investment and construction published by AEI. 
@@ -20,7 +21,8 @@ In the scenario that hostility has been growing toward China's state-owned enter
 
 "Private firms do not dictate the PRC's investment pattern; Beijing does. Still, they can make the difference between a series of $130 billion years or a series of $160 billion years," Scissor wrote. 
 
-https://us-east-1.online.tableau.com/#/site/jinman/views/Chineseoutboundinvestment/1?:iid=2
+https://us-east-1.online.tableau.com/t/jinman/views/Chineseoutboundinvestment/1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no
+
 (Data source: China Global Investment Tracker)
 
 Multiple factors are in play when it comes to the prediction of China's investment in the U.S, said Minarik. If China's economy could pick up steam from the current slowdown due to the U.S.-China trade disputes, the investment would increase. Meanwhile, the declining Chinese currency value against the U.S. dollar makes it more expensive to invest in the U.S., said Minarik.
