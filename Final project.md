@@ -11,7 +11,7 @@ However, most of the changes in the law will not take effect until implementing 
 
 Despite the uncertainties in implementation, the concerns raised toward the Cfius law will have a "measurable impact" on the Chinese investment in the U.S., Minarik said. Chinese direct investment in the U.S. declined by 36 percent to $30 billion in 2017, according to the Rhodium Group, an independent research provider. 
 
-https://us-east-1.online.tableau.com/t/jinman/views/U_S_-Chinadirectinvestmentflowinthepast10years/1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no
+https://public.tableau.com/profile/jinman.li#!/vizhome/U_S_-Chinadirectinvestmentflowinthepast10years/1?publish=yes
 
 (Data source: Rhodium Group)
 
@@ -21,7 +21,7 @@ In the scenario that hostility has been growing toward China's state-owned enter
 
 "Private firms do not dictate the PRC's investment pattern; Beijing does. Still, they can make the difference between a series of $130 billion years or a series of $160 billion years," Scissor wrote. 
 
-https://us-east-1.online.tableau.com/t/jinman/views/Chineseoutboundinvestment/1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no
+https://public.tableau.com/profile/jinman.li#!/vizhome/Chineseoutboundinvestment/1?publish=yes
 
 (Data source: China Global Investment Tracker)
 
